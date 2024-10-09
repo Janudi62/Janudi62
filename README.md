@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Janudi Kularathna</h1>
 <h3 align="center">A Information Technology Undergraduate at SLIIT</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/0e/be/05/0ebe05c2fb0e765f08b9c08096c30e54.jpg">
--  I’m currently studying at Sri Lanka Institute of Information Technology as a 3rd year student.
+-  I’m currently studying at Sri Lanka Institute of Information Technology as a 4th year student.
 
 
 - 📫 Reach me **janudikularathna@gmail.com**
