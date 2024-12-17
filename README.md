@@ -4,7 +4,7 @@
 <h3 align="center">🔧 Former Site Reliability Engineering Trainee at IFS</h3>
 <h3 align="center">📍 Based in Malabe, Sri Lanka | Hometown: Matara</h3>
 
-<img align="right" alt="Professional Coding" width="300" src="https://cdn.dribbble.com/users/287837/screenshots/14293363/media/d5a44f85e32f195144c1cfedac3fa56e.png?resize=800x600&vertical=center">
+<img align="right" alt="Professional Coding Setup" width="300" src="https://images.unsplash.com/photo-1553877522-43269d4ea984">
 🚀 I am a **DevOps and Site Reliability Engineer** enthusiast with a passion for building scalable and reliable systems. I enjoy automating processes, monitoring cloud infrastructure, and solving challenging operational problems.
 
 - 🎓 **B.Sc. in IT** at SLIIT – Completion expected in **Nov 2024**
